@@ -10,7 +10,7 @@ This repository contains the Python-based AI microservice for the AI-Enhanced Qu
 > 
 > **The full application requires two repositories running simultaneously:**
 > 1. **This Python Microservice:** Handles machine learning and PDF processing (Runs on port 5000).
-> 2. **The Spring Boot Main App:** Handles the UI, database, security, and user management (Runs on port 8080). You can find the main repository here: `[INSERT YOUR SPRING BOOT REPO LINK HERE]`
+> 2. **The Spring Boot Main App:** Handles the UI, database, security, and user management (Runs on port 8080). You can find the main repository here: https://github.com/ParZivaL-1208/ai-quiz-platform.git
 >
 > If this Python server is offline, the Spring Boot application will throw `Connection refused` errors when attempting to upload materials or generate quizzes.
 
